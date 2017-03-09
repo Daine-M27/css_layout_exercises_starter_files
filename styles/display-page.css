@@ -1,0 +1,36 @@
+body {
+	font-size: 0;
+}
+
+.box-upper {
+	height: 200px;
+	width: 50%;
+	border: 1px solid black;
+	display: inline-block;
+}
+
+.box-lower {
+	height: 300px;
+	width: 33%;
+	border: 1px solid black;
+	display: inline-block;
+}
+.u-one {
+	background-color: green;
+}
+
+.u-two {
+	background-color: blue;
+}
+
+.l-one {
+	background-color: gray;
+}
+
+.l-two {
+	background-color: black;
+}
+
+.l-three {
+	background-color: orange;
+}
